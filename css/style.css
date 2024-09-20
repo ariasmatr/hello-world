@@ -1,0 +1,24 @@
+/* Selector universal */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 4em;
+    padding: 2em;
+    font-size: 2.6em;
+    text-align: center;
+    color: cornflowerblue;
+    background-color: rgb(128 128 128 / 44%);
+    border: 5px rebeccapurple solid;
+}
+
+#subtitle {
+    color: darkgreen;
+}
+
+.body-text {
+    color: darkmagenta;
+}
